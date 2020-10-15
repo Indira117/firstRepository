@@ -1,0 +1,39 @@
+ Volume in drive C is Windows
+ Volume Serial Number is ACB5-E630
+
+ Directory of c:\Users\indira117\Desktop
+
+10/11/2020  10:52 PM    <DIR>          .
+10/11/2020  10:52 PM    <DIR>          ..
+09/20/2020  03:27 PM    <DIR>          .ipynb_checkpoints
+10/11/2020  10:49 PM                42 bacon.txt
+09/13/2020  11:24 AM             2,264 Discord.lnk
+09/21/2020  10:53 PM                19 drefd.txt
+09/25/2020  11:01 PM             1,105 Eclipse IDE for Java Developers - 2020-09.lnk
+09/04/2020  09:19 PM             2,382 GitHub Desktop.lnk
+08/02/2020  08:34 PM        81,444,501 Goltsova_V_Angliyskiy_yazyk_dlya_polzovateley_PK_i_programmistov.pdf
+08/16/2020  06:49 PM             5,933 indexing_and_slising.ipynb
+09/26/2020  08:53 PM            69,419 indira.ipynb
+09/30/2020  10:28 PM    <DIR>          java
+09/17/2020  09:42 PM                34 myexample.py
+09/21/2020  10:26 PM                 0 myfile.txt
+08/13/2020  10:25 PM             1,166 myfirstnotebook.ipynb
+09/21/2020  10:49 PM                44 my_new_file.txt
+09/30/2020  06:25 PM            12,491 New Microsoft Word Document.docx
+08/15/2020  11:17 PM             4,405 num.py
+08/15/2020  11:16 PM             4,408 numbers.ipynb
+10/11/2020  10:52 PM                 0 porky.txt
+08/18/2020  08:11 PM               555 print_formating_with_strings.ipynb
+09/19/2020  10:36 PM    <DIR>          python
+08/13/2020  07:43 PM             1,330 python - Shortcut.lnk
+10/11/2020  09:17 PM    <DIR>          SDET
+09/16/2020  07:49 PM             2,228 Slack.lnk
+08/16/2020  03:17 PM             4,148 strings.ipynb
+08/16/2020  08:00 PM             6,431 str_properties_methods.ipynb
+08/15/2020  11:20 PM                10 test.py
+09/20/2020  03:29 PM               850 Untitled.ipynb
+08/16/2020  02:36 PM             3,208 variableassignment.ipynb
+08/08/2020  05:17 PM             2,228 WhatsApp.lnk
+10/04/2020  03:08 PM             1,950 Zoom.lnk
+              26 File(s)     81,571,151 bytes
+               6 Dir(s)  907,994,468,352 bytes free
